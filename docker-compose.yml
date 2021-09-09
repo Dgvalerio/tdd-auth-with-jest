@@ -1,0 +1,12 @@
+version: "3.9"  # optional since v1.27.0
+services:
+  database:
+    container_name: tdd_auth
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_DB: node_auth
+      POSTGRES_USER: docker
+      POSTGRES_PASSWORD: docker
+    ports:
+      - 5432:5432
