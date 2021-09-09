@@ -1,0 +1,8 @@
+{
+  "name": "tdd-auth-with-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Dgvalerio/tdd-auth-with-jest.git",
+  "author": "Davi Gonçalves Valério <al.davigvalerio@gmail.com>",
+  "license": "MIT"
+}
