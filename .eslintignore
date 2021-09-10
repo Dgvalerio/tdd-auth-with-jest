@@ -1,0 +1,8 @@
+# IntelliJ project files
+.idea
+
+# Yarn
+node_modules
+
+# Tests
+__tests__/coverage
